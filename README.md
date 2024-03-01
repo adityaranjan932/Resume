@@ -1,2 +1,3 @@
-# Resume
-"Creating a simple resume effortlessly from HTML with this GitHub repository."
+# # HTML Resume Template
+
+Use this repository to create a professional resume using HTML. Easily customize your content within the HTML structure, preview in a web browser, and generate print-friendly or PDF versions. Contributions are welcome! 
